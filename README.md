@@ -1,2 +1,2 @@
 # AREC570
-AREC570 Thesis Proposal 
+AREC570 Life expectancy and gdp per capita
